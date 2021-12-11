@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-typescript-coin/static/js/main.a4366ae2.chunk.js",
+    "main.js.map": "/react-typescript-coin/static/js/main.a4366ae2.chunk.js.map",
+    "runtime-main.js": "/react-typescript-coin/static/js/runtime-main.0e60f32f.js",
+    "runtime-main.js.map": "/react-typescript-coin/static/js/runtime-main.0e60f32f.js.map",
+    "static/js/2.9275d1e9.chunk.js": "/react-typescript-coin/static/js/2.9275d1e9.chunk.js",
+    "static/js/2.9275d1e9.chunk.js.map": "/react-typescript-coin/static/js/2.9275d1e9.chunk.js.map",
+    "index.html": "/react-typescript-coin/index.html",
+    "static/js/2.9275d1e9.chunk.js.LICENSE.txt": "/react-typescript-coin/static/js/2.9275d1e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e60f32f.js",
+    "static/js/2.9275d1e9.chunk.js",
+    "static/js/main.a4366ae2.chunk.js"
+  ]
+}
